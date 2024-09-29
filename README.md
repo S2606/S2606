@@ -1,7 +1,5 @@
 ### Namaste 🙏
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=S2606.visitor-badge)](https://github.com/S2606)
-
 <!--
 **S2606/S2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
